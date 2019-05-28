@@ -151,6 +151,15 @@ h1,h2,h3,h4,h5,h6{
     background-color: #D74932;
     color: white;
 }
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: #D74932;
+    background-color: aqua;
+    color:black;
+    margin: 10px;
+    display: inline-block;
+}
 .fa:hover{
     transition: 0.3s;
     transform: scale(1.4);
